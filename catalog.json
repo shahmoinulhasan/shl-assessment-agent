@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Occupational Personality Questionnaire (OPQ)",
+        "description": "A comprehensive personality questionnaire that measures behavioral style at work, assessing how a candidate fits into a role and company culture. Ideal for all levels, including leadership.",
+        "url": "https://www.shl.com/solutions/products/occupational-personality-questionnaire-opq/",
+        "test_type": "Personality"
+    },
+    {
+        "name": "Verify Interactive - General Ability (GAT)",
+        "description": "An interactive cognitive ability test measuring numerical, deductive, and inductive reasoning. Highly predictive of job performance for mid-level to senior roles.",
+        "url": "https://www.shl.com/solutions/products/verify-interactive/",
+        "test_type": "Cognitive"
+    },
+    {
+        "name": "Automated Coding Simulator (Java, Python, C++)",
+        "description": "Assesses technical proficiency through real-world coding challenges. Perfect for evaluating software engineers and developers on their ability to write efficient, bug-free code.",
+        "url": "https://www.shl.com/solutions/products/coding-simulations/",
+        "test_type": "Technical/Coding"
+    },
+    {
+        "name": "Situational Judgement Test (SJT)",
+        "description": "Evaluates how candidates handle workplace scenarios, testing their judgment and decision-making skills. Great for customer-facing or stakeholder-heavy roles.",
+        "url": "https://www.shl.com/solutions/products/situational-judgment-test/",
+        "test_type": "Behavioral"
+    },
+    {
+        "name": "Spoken Language Assessment",
+        "description": "Automated evaluation of a candidate's spoken language proficiency, focusing on fluency, pronunciation, and vocabulary. Essential for support and global team roles.",
+        "url": "https://www.shl.com/solutions/products/language-assessments/",
+        "test_type": "Communication"
+    }
+]
