@@ -2,8 +2,8 @@ import google.generativeai as genai
 import json
 import os
 
-# --- INSERT YOUR GEMINI API KEY HERE ---
-genai.configure(api_key="AIzaSyCesanQuvFJ0RbNUKx8ds_TxnjndKGV2xk")
+# Securely grab the key from the environment
+genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
 
 # Load our newly created catalog
 with open("catalog.json", "r") as f:
